@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDomGoKitStd", "CodeDomGoKitStd\CodeDomGoKitStd.csproj", "{2873FB5B-B3DD-46D6-995E-49C50BEACC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDomGoKitDnf", "CodeDomGoKitDnf\CodeDomGoKitDnf.csproj", "{604E95D8-8534-4626-96BF-508C51C69C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2873FB5B-B3DD-46D6-995E-49C50BEACC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2873FB5B-B3DD-46D6-995E-49C50BEACC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2873FB5B-B3DD-46D6-995E-49C50BEACC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2873FB5B-B3DD-46D6-995E-49C50BEACC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604E95D8-8534-4626-96BF-508C51C69C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604E95D8-8534-4626-96BF-508C51C69C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604E95D8-8534-4626-96BF-508C51C69C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604E95D8-8534-4626-96BF-508C51C69C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5EEDD81-0E76-4557-9769-8DC23743E77A}
+	EndGlobalSection
+EndGlobal
